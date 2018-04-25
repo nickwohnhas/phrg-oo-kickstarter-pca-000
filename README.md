@@ -34,6 +34,4 @@ A few hints to get you started:
 * When a backer has added a project to its list of backed projects, that project should *also add the backer to its list of backers*. Refer back to the Code Along about Collaborating Objects.
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-kickstarter' title='Object Oriented Kickstarter'>Object Oriented Kickstarter</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-kickstarter'>OO Kickstarter</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Object Oriented Kickstarter</p>
